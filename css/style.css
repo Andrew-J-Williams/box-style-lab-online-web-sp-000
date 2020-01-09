@@ -1,6 +1,6 @@
 body {
   background-image: url(../../images/white-wood.jpg);
-  
+  background-size: cover;
 }
 
 body, html {
