@@ -53,11 +53,11 @@ h4 {
 .med {
   width: 203.5%;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
 }
 
 .large {
   width: 303%;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
 }
