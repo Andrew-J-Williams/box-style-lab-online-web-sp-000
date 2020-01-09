@@ -1,5 +1,5 @@
 body {
-  background-image: url(./images/images/white-wood.jpg);
+  background-image: ./images/images/white-wood.jpg;
 }
 
 body, html {
